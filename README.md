@@ -1,8 +1,8 @@
 # data-linter-deep-learning
 Implementation and performance testing for the Data-Linter created by the Google Brain Research team
 > References:
-- NIPS 2017 Workshop on Machine Learning Systems http://learningsys.org/nips17/assets/papers/paper_19.pdf
-- GitHub Repository https://github.com/brain-research/data-linter/
+> - NIPS 2017 Workshop on Machine Learning Systems http://learningsys.org/nips17/assets/papers/paper_19.pdf
+> - GitHub Repository https://github.com/brain-research/data-linter/
 
 ## Data
 For this project, a good place to start are a few of the Kaggle competitions. Some of the datasets we propose testing on are detailed below. We will select one sparse dataset (the GTD) and one rare-event dataset (the Credit Card Fraud dataset):
