@@ -1,6 +1,6 @@
 # data-linter-deep-learning
 Implementation and performance testing for the Data-Linter created by the Google Brain Research team
-*References:* 
+> References:
 - NIPS 2017 Workshop on Machine Learning Systems http://learningsys.org/nips17/assets/papers/paper_19.pdf
 - GitHub Repository https://github.com/brain-research/data-linter/
 
